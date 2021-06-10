@@ -31,7 +31,7 @@ I'm a researcher at [The Water Institute](http://www.thewaterinstitute.org) and 
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=plastic&logo=amazon-aws&logoColor=white&color=FF9900)
 
-![](https://img.shields.io/badge/Editor-VIM-informational?style=plastic&logo=vim&logoColor=white&color=F60000)
+![](https://img.shields.io/badge/Editor-vim-informational?style=plastic&logo=vim&logoColor=white&color=F60000)
 ![](https://img.shields.io/badge/Editor-CLion-informational?style=plastic&logo=clion&logoColor=white&color=F60000)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=plastic&logo=pycharm&logoColor=white&color=F60000)
 ![](https://img.shields.io/badge/Editor-QtCreator-informational?style=plastic&logo=qt&logoColor=white&color=F60000)
