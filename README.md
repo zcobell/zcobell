@@ -1,5 +1,5 @@
 ### Hi, I'm Zach Cobell 👋
-I'm a researcher at [The Water Institute](http://www.thewaterinstitute.org) and I maintain the [Adcirc](http://adcirc.com) coastal hydrodynamic model.
+I'm a researcher at [The Water Institute](http://www.thewaterinstitute.org) and I maintain the [Adcirc](http://adcirc.com) coastal hydrodynamic model. I'm interested in coastal modeling, high performance computing, and cloud technologies to enhance the first two.
 
 ## 🤓 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcobell&repo=MetOceanViewer&hide_border=true&theme=dark)](http://github.com/zcobell/MetOceanViewer)
