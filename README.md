@@ -2,8 +2,8 @@
 I'm a researcher at [The Water Institute](http://www.thewaterinstitute.org) and I maintain the [Adcirc](http://adcirc.com) coastal hydrodynamic model.
 
 ## 🤓 Projects
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcobell&repo=MetOceanViewer&hide_border=true&theme=dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcobell&repo=ADCIRCModules&hide_border=true&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcobell&repo=MetOceanViewer&hide_border=true&theme=dark)](http://github.com/zcobell/MetOceanViewer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcobell&repo=ADCIRCModules&hide_border=true&theme=dark)](http://github.com/zcobell/ADCIRCModules)
 
 ## 📈 My Stats
 ![zcobell's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcobell&show_icons=true&theme=dark&hide_border=true)
