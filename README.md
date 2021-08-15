@@ -1,5 +1,5 @@
 ### Hi, I'm Zach Cobell 👋
-I'm a researcher at [The Water Institute](http://www.thewaterinstitute.org) and I maintain the [Adcirc](http://adcirc.com) coastal hydrodynamic model. I'm interested in coastal modeling, high performance computing, and cloud technologies to enhance the first two.
+I'm a researcher at [The Water Institute](http://www.thewaterinstitute.org) and I maintain the [Adcirc](http://adcirc.org) coastal hydrodynamic model. I'm interested in coastal modeling, high performance computing, and cloud technologies to enhance the first two.
 
 [![](https://img.shields.io/badge/Twitter-%40ZachCobell-informational?style=flat&logo=twitter&logoColor=white&color=0A66C2)](http://twitter.com/zachcobell)
 [![](https://img.shields.io/badge/LinkedIn-Zach%20Cobell-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/zach-cobell-805694106/)
