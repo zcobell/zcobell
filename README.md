@@ -4,10 +4,6 @@ I'm a researcher at [The Water Institute](http://www.thewaterinstitute.org) and 
 [![](https://img.shields.io/badge/LinkedIn-Zach%20Cobell-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/zach-cobell-805694106/)
 [![](https://img.shields.io/badge/ORCiD-Zach%20Cobell-informational?style=flat&logo=orcid&logoColor=white&color=0A66C2)](https://orcid.org/0000-0002-6645-8570)
 
-## 🤓 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcobell&repo=MetOceanViewer&hide_border=true&theme=dark)](http://github.com/zcobell/MetOceanViewer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zcobell&repo=ADCIRCModules&hide_border=true&theme=dark)](http://github.com/zcobell/ADCIRCModules)
-
 ## 📈 My Stats
 ![zcobell's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcobell&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcobell&layout=compact&theme=dark&hide_border=true)
