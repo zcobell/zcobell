@@ -29,4 +29,3 @@ I'm a researcher at [The Water Institute](http://www.thewaterinstitute.org) and 
 ![](https://img.shields.io/badge/Editor-vim-informational?style=flat&logo=vim&logoColor=white&color=F60000)
 ![](https://img.shields.io/badge/Editor-CLion-informational?style=flat&logo=clion&logoColor=white&color=F60000)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=F60000)
-![](https://img.shields.io/badge/Editor-QtCreator-informational?style=flat&logo=qt&logoColor=white&color=F60000)
